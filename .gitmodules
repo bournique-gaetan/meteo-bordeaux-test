@@ -1,0 +1,3 @@
+[submodule "projet-de-base"]
+	path = projet-de-base
+	url = git@github.com:bournique-gaetan/projet-de-base.git
